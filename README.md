@@ -1,1 +1,1 @@
-# Face-Recognition-App
+# Face-Detection-App
