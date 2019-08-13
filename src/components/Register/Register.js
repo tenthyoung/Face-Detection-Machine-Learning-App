@@ -13,15 +13,15 @@ const Register = ({ onRouteChange }) => {
 			    <fieldset id="sign_up" className="ba b--transparent ph0 mh0">
 				<legend className={style.legend}>Create Account</legend>
 				  <div className="mt3">
-			        <label className="db fw6 near-white lh-copy f6" htmlFor="name">name</label>
+			        <label className="db fw6 near-white lh-copy f6" htmlFor="name">Name</label>
 			        <input className="pa2 input-reset ba bg-light-gray hover-bg-black hover-near-white w-100" type="text" name="name"  id="name" />
 			      </div>
 			      <div className="mt3">
-			        <label className="db fw6 near-white lh-copy f6" htmlFor="email-address">email</label>
+			        <label className="db fw6 near-white lh-copy f6" htmlFor="email-address">Email</label>
 			        <input className="pa2 input-reset ba bg-light-gray hover-bg-black hover-near-white w-100" type="email" name="email-address"  id="email-address" />
 			      </div>
 			      <div className="mv3">
-			        <label className="db fw6 near-white lh-copy f6" htmlFor="password">password</label>
+			        <label className="db fw6 near-white lh-copy f6" htmlFor="password">Password</label>
 			        <input className="b pa2 input-reset ba bg-light-gray hover-bg-black hover-near-white w-100" type="password" name="password"  id="password" />
 			      </div>
 			    </fieldset>
